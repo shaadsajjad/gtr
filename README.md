@@ -1,16 +1,34 @@
-# gtr
+# GTR - Customer Management App
 
-A new Flutter project.
+**GTR** is a Flutter-based mobile application designed to manage and view customer data fetched from a remote API. It features secure login, pagination, profile image loading, and clean state management using `Provider`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Secure Login with JWT token
+- 📄 View paginated customer list with images
+- 🔍 Customer detail screen
+- 🌐 API integration using Dio
+- 🔄 State management using `Provider`
+- 🎨 Gradient-based modern UI design
+- 🧹 Clean and maintainable code structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Dio** (for API calls)
+- **Provider** (for state management)
+- **Shared Preferences** (for token storage)
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/gtr.git
+   cd gtr
